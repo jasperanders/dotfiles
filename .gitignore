@@ -1,6 +1,6 @@
 *
 !.zshrc
-!.vim
+!.vim/*
 !.vimrc
-!.vscode
+!.vscode/*
 !.gitignore
